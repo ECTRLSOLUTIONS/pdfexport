@@ -1,0 +1,4 @@
+Bundle-Name: pdf-export
+Bundle-SymbolicName: eu.suggesto.d40.pdfexport
+Bundle-Version: 1.0.0
+Export-Package: eu.suggesto.d40.pdfexport.constants
